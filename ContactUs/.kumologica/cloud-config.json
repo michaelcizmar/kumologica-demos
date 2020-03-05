@@ -1,0 +1,21 @@
+{
+  "awsLambda": {
+    "functionName": "ContactUs-flow",
+    "description": "cloud action flow",
+    "memory": "256",
+    "timeout": "30",
+    "reservedConcurrency": "",
+    "xRay": false,
+    "profile": "kumo-arun",
+    "environment": [],
+    "tags": [],
+    "events": [
+      {
+        "source": "api",
+        "api": "71iwc9qkd3",
+        "stage": "dev",
+        "security": "NONE"
+      }
+    ]
+  }
+}

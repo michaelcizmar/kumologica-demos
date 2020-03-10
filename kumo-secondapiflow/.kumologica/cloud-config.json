@@ -13,8 +13,8 @@
     "events": [
       {
         "source": "api",
-        "api": "gu6n78dnme",
-        "stage": "dev",
+        "api": "",
+        "stage": "",
         "security": "NONE"
       }
     ]

@@ -1,0 +1,22 @@
+{
+  "awsLambda": {
+    "functionName": "kumo-secondapiflow-flow",
+    "description": "kumologica flow",
+    "memory": "256",
+    "timeout": "30",
+    "reservedConcurrency": "",
+    "xRay": false,
+    "role": "",
+    "profile": "kumo-arun",
+    "environment": [],
+    "tags": [],
+    "events": [
+      {
+        "source": "api",
+        "api": "gu6n78dnme",
+        "stage": "dev",
+        "security": "NONE"
+      }
+    ]
+  }
+}

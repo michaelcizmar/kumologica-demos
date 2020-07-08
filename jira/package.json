@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@kumologica/kumologica-contrib-jira": "0.0.5",
+    "@kumologica/kumologica-contrib-jira": "^0.1",
     "@kumologica/runtime": "^0.9"
   },
   "devDependencies": {
